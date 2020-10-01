@@ -15,7 +15,7 @@ Homebrew are games and other software not officially approved. For example, [Vit
 
 Best of all, HENkaku is 100% free. No cost. No ads. No "donations".
 
-How do I get it?
+How do I get it easily?
 ===============================================================================
 Visit **{{ site.url }}** from the built-in web browser on your PS Vita and press the "Install" button to install HENkaku. You must do this *every time you reboot the console*--that is, every time you turn the console off and on again.
 
